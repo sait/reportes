@@ -16,6 +16,7 @@
 Muestra las ventas del corte clasificadas por impuesto.
 
 [Descargar Reporte](./files/corte-caja-02-resumen-de-ventas.rpt)
+
 ![](./files/corte-caja-02-resumen-de-ventas.png)
 
 Los reports son

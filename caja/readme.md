@@ -12,10 +12,18 @@
 
 Muestra las ventas del corte clasificadas por impuesto
 
-![](./corte-caja-02-resumen-de-ventas.png)
+![](./files/corte-caja-02-resumen-de-ventas.png)
+
+Los reports son
+- adsasdasd lajshdlajsd laksd jasdj a
+- alkdsj lakdj lajsd lasjd lajsd
+- lakj lajsd lajsd lajsd lasjd
+- lja slj dlj saldkj asldj asdlja
+- lkj alsj lkj dlja dslkja sd
+- lj asldkjsa dlkajs dlkasd j
 
 
 ### Corte de Caja - Movimientos Cancelados
 
 Muestra los facturas y notas canceladas del corte
-![](./corte-caja-02-resumen-de-ventas.png)
+![](./files/corte-caja-02-resumen-de-ventas.png)

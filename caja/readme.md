@@ -34,4 +34,9 @@ Los reports son
 ### Corte de Caja - Movimientos Cancelados
 
 Muestra los facturas y notas canceladas del corte
+
+[Descargar Reporte](./files/corte-caja-02-resumen-de-ventas.rpt)
+
 ![](./files/corte-caja-02-resumen-de-ventas.png)
+
+

@@ -8,10 +8,13 @@
 |[Movimientos Cancelados](#corte-de-caja---movimientos-cancelados)	|  [corte-caja-13-movimientoes-cancelados.rpt](./files/corte-caja-02-resumen-de-ventas.rpt)
 
 
+
+
+
 ### Corte de Caja - Resumen de Ventas
 
 Muestra las ventas del corte clasificadas por impuesto
-
+![Descargar](./files/corte-caja-02-resumen-de-ventas.rpt)
 ![](./files/corte-caja-02-resumen-de-ventas.png)
 
 Los reports son
@@ -21,6 +24,9 @@ Los reports son
 - lja slj dlj saldkj asldj asdlja
 - lkj alsj lkj dlja dslkja sd
 - lj asldkjsa dlkajs dlkasd j
+
+
+
 
 
 ### Corte de Caja - Movimientos Cancelados

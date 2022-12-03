@@ -14,7 +14,7 @@
 ### Corte de Caja - Resumen de Ventas
 
 Muestra las ventas del corte clasificadas por impuesto
-![Descargar](./files/corte-caja-02-resumen-de-ventas.rpt)
+[Descargar](./files/corte-caja-02-resumen-de-ventas.rpt)
 ![](./files/corte-caja-02-resumen-de-ventas.png)
 
 Los reports son

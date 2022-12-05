@@ -1,13 +1,10 @@
-# Catálogo de Reportes de SAIT Software Administrativo
+# SAIT Software Administrativo
+## Catálogo de Reportes
 
-Aquí se listan los reportes de SAIT Software Administrativo clasificados por módulos
+Aquí encontrará todos los reportes incluidos en  SAIT Software Administrativo clasificados por módulos
 
-### Ventas
-
-### Caja
-
-|Descripcion|Archivo|
-|:---|---:|
-|Resumen de Ventas|
-
+### [Ventas](./ventas/readme.md)
+### [Caja](./caja/readme.md)
 ### Inventario
+
+

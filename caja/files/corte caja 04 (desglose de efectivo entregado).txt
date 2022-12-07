@@ -1,0 +1,1 @@
+Muestra el efectivo entregado desglosado en conteo de billetes y monedas separados en moneda nacional y moneda americana.

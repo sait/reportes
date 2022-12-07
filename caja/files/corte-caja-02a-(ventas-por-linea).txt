@@ -1,0 +1,1 @@
+Mostrar la información de ventas por cada línea de productos, incluyendo el total de ventas, el IVA acumulado y el total global (ventas más IVA acumulado) de cada línea de productos.

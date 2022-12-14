@@ -1,0 +1,1 @@
+ Muestra información sobre las notas de crédito aplicadas en el corte. El reporte muestra folio, cliente y total.

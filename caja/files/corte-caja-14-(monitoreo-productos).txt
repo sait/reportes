@@ -1,0 +1,1 @@
+Permite visualizar las ventas de los artículos configurados con monitoreo en corte. El reporte muestra clave y descripcion del articulo asi como cantidad de ventas e importe sin iva.

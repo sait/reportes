@@ -1,0 +1,1 @@
+es un documento que muestra información detallada sobre los cheques que han sido recibidos. Esta información incluye numero de referencia y cantidad en pesos y dolares asi como sus totales a 58 mm.

@@ -1,0 +1,1 @@
+Muestra las notas de venta canceladas asi como al cliente y el importe. al final totaliza la cantidad de cancelaciones a 58 mm.

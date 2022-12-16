@@ -1,0 +1,1 @@
+Muestra el movimiento de efectivo correspondiente al próximo retiro del cajero como base, pero el formato se puede utilizar para una variedad de propósitos, como pagar a los proveedores a 58mm.

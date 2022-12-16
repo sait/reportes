@@ -1,0 +1,1 @@
+Muestra los movimientos cancelados asi como el usuario encargado y el importe. al final totaliza la cantidad que reingreso a 58 mm.

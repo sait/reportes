@@ -1,0 +1,1 @@
+Muestra la información inicial del corte de caja: Datos de empresa e información general del corte de caja. Formato 58 mm.

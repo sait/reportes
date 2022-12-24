@@ -1,0 +1,1 @@
+Muestra el total de abonos que se han registrado al apartado o pedido. Formato 58 mm.
